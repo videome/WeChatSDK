@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'WeChatSDK'
-  s.version      = '1.7'
+  s.version      = '1.7.1'
   s.summary      = '微信SDK for Swift'
   s.homepage     = 'https://github.com/linhan6177/WeChatSDK.git'
   s.social_media_url = 'http://weibo.com/qiniutek'
